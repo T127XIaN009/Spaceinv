@@ -4096,7 +4096,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "Enemy2",
+                "Player",
                 "Animation",
                 "=",
                 "\"explo\""
@@ -4119,7 +4119,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "0.7"
+                "1"
               ]
             },
             {
@@ -4127,7 +4127,7 @@
                 "value": "Arreter"
               },
               "parameters": [
-                "Enemy2"
+                "Player"
               ]
             }
           ],
@@ -4141,7 +4141,7 @@
                     "value": "Delete"
                   },
                   "parameters": [
-                    "Enemy3",
+                    "Player",
                     ""
                   ]
                 }
