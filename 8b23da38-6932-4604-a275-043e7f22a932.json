@@ -72,7 +72,7 @@
     "resources": [
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/8b23da38-6932-4604-a275-043e7f22a932/resources/1ad8f92e23cf36accfc7b756316df9049a7e1bac58e4343b4238a61fb860edfd-c5c37250f0ad6f1a25ecb23b306aac585d613559674b81206fc7fda3857d991f_Red spaceship 4.png.png",
+        "file": "assets/c5c37250f0ad6f1a25ecb23b306aac585d613559674b81206fc7fda3857d991f_Red spaceship 4.png2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "c5c37250f0ad6f1a25ecb23b306aac585d613559674b81206fc7fda3857d991f_Red spaceship 4.png",
@@ -85,7 +85,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/1785fe4d24c3d35cdb2c10a1570a42c12a7e0585225c75837dde5e682a90d487_Flame.png",
+        "file": "assets/Flame2.png",
         "kind": "image",
         "metadata": "",
         "name": "Flame.png",
@@ -98,7 +98,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/PNG/Lasers/3070803b0aa2b9e3ccba6ef2e88aa60bd972bbee0929e1e86e4c026e07334921_Blue laser 04.png",
+        "file": "assets/Blue laser5.png",
         "kind": "image",
         "metadata": "",
         "name": "3070803b0aa2b9e3ccba6ef2e88aa60bd972bbee0929e1e86e4c026e07334921_Blue laser 04.png",
@@ -111,7 +111,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/ba9df94da2498403043ffc14a5128e01ad21764b0a776933519c5f6454d637f7_Octopus_No Shadow.png",
+        "file": "assets/Octopus_No Shadow2.png",
         "kind": "image",
         "metadata": "",
         "name": "ba9df94da2498403043ffc14a5128e01ad21764b0a776933519c5f6454d637f7_Octopus_No Shadow.png",
@@ -124,7 +124,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Weapon/Projectile/Ball/1968c412743104e67273b5ab7dfc03190241467ab78034511f23a8ca6c01a6f6_Bullet 1.png",
+        "file": "assets/Bullet2.png",
         "kind": "image",
         "metadata": "",
         "name": "1968c412743104e67273b5ab7dfc03190241467ab78034511f23a8ca6c01a6f6_Bullet 1.png",
@@ -137,7 +137,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/PNG/Meteors/ae6802c87f6e3e4739b6260b23e4546582daad3fb803446401fbec2bc057f297_Big Brown Meteor 1.png",
+        "file": "assets/Big Brown Meteor2.png",
         "kind": "image",
         "metadata": "",
         "name": "ae6802c87f6e3e4739b6260b23e4546582daad3fb803446401fbec2bc057f297_Big Brown Meteor 1.png",
@@ -150,7 +150,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/FoozleCC/Void Collection/Environment Pack/Backgrounds/e5676bf99618caa838514a068ad5388da8cfe0ca6df72979fd6ad0bfbfc53fc2_Starry Background Rotary Star 1.png",
+        "file": "assets/Starry Background Rotary Star2.png",
         "kind": "image",
         "metadata": "",
         "name": "e5676bf99618caa838514a068ad5388da8cfe0ca6df72979fd6ad0bfbfc53fc2_Starry Background Rotary Star 1.png",
@@ -163,7 +163,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/PNG/Meteors/821659c429013730ce54bc7259612b06fcaf5563cbed3ce63d0ee73e4de202cd_Big Grey Meteor 1.png",
+        "file": "assets/Big Grey Meteor2.png",
         "kind": "image",
         "metadata": "",
         "name": "821659c429013730ce54bc7259612b06fcaf5563cbed3ce63d0ee73e4de202cd_Big Grey Meteor 1.png",
@@ -176,7 +176,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/PNG/Meteors/401dea3495a58458e490689209f4c600652397a44bfc31314e80d0af334173aa_Big Grey Meteor 2.png",
+        "file": "assets/Big Grey Meteor3.png",
         "kind": "image",
         "metadata": "",
         "name": "401dea3495a58458e490689209f4c600652397a44bfc31314e80d0af334173aa_Big Grey Meteor 2.png",
@@ -189,7 +189,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/PNG/Meteors/85a5de579744c251c7430bc855d4d0c01a18b04fec07f235c08668421e9f300c_Big Grey Meteor 3.png",
+        "file": "assets/Big Grey Meteor4.png",
         "kind": "image",
         "metadata": "",
         "name": "85a5de579744c251c7430bc855d4d0c01a18b04fec07f235c08668421e9f300c_Big Grey Meteor 3.png",
@@ -202,7 +202,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/PNG/Meteors/899702bd99d00e0c99369c9fd5422bd688abc4ccfc0761d944d660b5eb6c6f2d_Big Grey Meteor 4.png",
+        "file": "assets/Big Grey Meteor5.png",
         "kind": "image",
         "metadata": "",
         "name": "899702bd99d00e0c99369c9fd5422bd688abc4ccfc0761d944d660b5eb6c6f2d_Big Grey Meteor 4.png",
@@ -215,7 +215,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/9c836518da4f93f1a442e4beaa4023bdde907296b1a03f5562a73693fac0f778_tiled_Forest Background.png",
+        "file": "assets/tiled_Forest Background2.png",
         "kind": "image",
         "metadata": "",
         "name": "tiled_Forest Background.png",
@@ -228,7 +228,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/Backgrounds/9bca92da2d3a7e7c50e16c4a59f794907d14514d5a109febdeb101e82888979c_tiled_purple space.png",
+        "file": "assets/tiled_purple space2.png",
         "kind": "image",
         "metadata": "",
         "name": "tiled_purple space.png",
@@ -241,7 +241,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/8b23da38-6932-4604-a275-043e7f22a932/resources/ed023484477db41cc856724719e0a14fc047ce075cef4f28671af9f26a0b6543-Red spaceship 3_1.png.png",
+        "file": "assets/Red spaceship 3_1.png2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Red spaceship 3_1.png",
@@ -254,7 +254,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/Ship/5d65b2208f079f9666f4b7245a324a7730f0d22f2694b431c0e314e19c79be0c_Blue spaceship 1_1.png",
+        "file": "assets/Blue spaceship 1_2.png",
         "kind": "image",
         "metadata": "",
         "name": "Blue spaceship 1_1.png",
@@ -267,7 +267,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/8b23da38-6932-4604-a275-043e7f22a932/resources/f37ed35bcf7f1424b1ec791b6c54a833ddc038f2819901f24283231286a9c6d8-NewSprite.png",
+        "file": "assets/NewSprite5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite",
@@ -276,7 +276,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Weapon/Projectile/Ball/f8c97f4f344ceda06e1b53c65b15e33b24c6256e0991bc881eb7f2317b89ba57_Bullet 5.png",
+        "file": "assets/Bullet6.png",
         "kind": "image",
         "metadata": "",
         "name": "Bullet 5.png",
@@ -289,7 +289,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/8b23da38-6932-4604-a275-043e7f22a932/resources/043de1f96da574c7a5edbf798bb04b46e8a9ab3ae228b26942404f6af30f4ed6-NewSprite2.png",
+        "file": "assets/NewSprite6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite2",
@@ -298,7 +298,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/8b23da38-6932-4604-a275-043e7f22a932/resources/5cf4f26e9e4903e149e5d511543426ea05205def4e8f2a6a04dd84988447e930-Red spaceship 1_1.png.png",
+        "file": "assets/Red spaceship 1_1.png2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Red spaceship 1_1.png",
@@ -311,7 +311,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/8b23da38-6932-4604-a275-043e7f22a932/resources/a8347f3c557e2872a928ec6f448b85c1860ef81256894854448bf5b5c937ef6e-NewSprite3.png",
+        "file": "assets/NewSprite7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite3",
@@ -320,7 +320,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/8b23da38-6932-4604-a275-043e7f22a932/resources/7d49ad2a4b363cd531cb8103c43822062317bd5720585a6f61a196942686ffd9-Red spaceship 2_1.png.png",
+        "file": "assets/Red spaceship 2_1.png2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Red spaceship 2_1.png",
@@ -333,7 +333,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Space Shooter by Pixel boy/Hud/Bar/f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png",
+        "file": "assets/Health Bar2.png",
         "kind": "image",
         "metadata": "",
         "name": "Health Bar.png",
@@ -346,7 +346,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Space Shooter by Pixel boy/Hud/3eee053defc4f2944d72ef78b5aebbac31634202712157a3630b84fe08d79cbb_tiled_Health Bar Fill.png",
+        "file": "assets/tiled_Health Bar Fill2.png",
         "kind": "image",
         "metadata": "",
         "name": "tiled_Health Bar Fill.png",
@@ -359,7 +359,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/8b23da38-6932-4604-a275-043e7f22a932/resources/8ead686d330b71cf954dac5d62aa930ea13fec2a192f28f0bb15a8bf3abbe67b-NewSprite4.png",
+        "file": "assets/NewSprite8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite4",
@@ -367,7 +367,7 @@
         "userAdded": true
       },
       {
-        "file": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/7c1631d4de82cd4dddfa8cfe00c73fbd0dcd9490a4f6e21fbfa4451ab7bb0341_Laser effect (1).aac",
+        "file": "assets/Laser effect (1)2.aac",
         "kind": "audio",
         "metadata": "",
         "name": "Laser effect (1).aac",
@@ -382,7 +382,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/8b23da38-6932-4604-a275-043e7f22a932/resources/870b2cb321b25f2e2a4a1102ef8b27a0f6c9e49655e152ce0344d0eb32ceede6-Blue laser 01.png.png",
+        "file": "assets/Blue laser 01.png2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Blue laser 01.png",
@@ -395,7 +395,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/PNG/Lasers/2d63675ed5189f0d6b46efb2f85d78e99ff6ea45bcb478b1e17a56fd62b5935b_Green laser 05.png",
+        "file": "assets/Green laser6.png",
         "kind": "image",
         "metadata": "",
         "name": "Green laser 05.png",
@@ -408,7 +408,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/PNG/Lasers/d1466b296f745bab21a28afab9e9596dc7d808a6a59f600052ca302c9f2e5800_Red laser 03.png",
+        "file": "assets/Red laser4.png",
         "kind": "image",
         "metadata": "",
         "name": "Red laser 03.png",
@@ -421,7 +421,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/PNG/Lasers/4c54fd77f4af747dd6e2f3b3a9dc264284d64e3396e85512f6b4df21acea05cf_Blue laser 03.png",
+        "file": "assets/Blue laser4.png",
         "kind": "image",
         "metadata": "",
         "name": "Blue laser 03.png",
@@ -433,7 +433,7 @@
         }
       },
       {
-        "file": "https://asset-resources.gdevelop.io/public-resources/Music/Horror/a45feb98820e4c70d3b5a09c7df9d68f575fba4e6d45c04edfa0d36e437997a2_Alien Spaceship Atmosphere.aac",
+        "file": "assets/Alien Spaceship Atmosphere2.aac",
         "kind": "audio",
         "metadata": "",
         "name": "Alien Spaceship Atmosphere.aac",
@@ -448,7 +448,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/243af986cfe00f54732f8c0800fb77bc516087c6bc96893f0f83e5dacbca0f13_Bronze bar background.png",
+        "file": "assets/Bronze bar background2.png",
         "kind": "image",
         "metadata": "",
         "name": "Bronze bar background.png",
@@ -461,7 +461,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/dedf79e6421b8ab3ba5ede3a90bef87412c248afcd4eb4881cd94dada5538140_Brown LCD Bar Fill.png",
+        "file": "assets/Brown LCD Bar Fill2.png",
         "kind": "image",
         "metadata": "",
         "name": "Brown LCD Bar Fill.png",
@@ -474,7 +474,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/55034bb02ed0cbeede3da64dcf05d3590abee4a8fa69657ed5d461f31d2f1df0_Green LCD Bar Fill.png",
+        "file": "assets/Green LCD Bar Fill2.png",
         "kind": "image",
         "metadata": "",
         "name": "Green LCD Bar Fill.png",
@@ -487,7 +487,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/60509113f640778fad77718ffc0f8c88e6dac6a2e5c13756da0999b27fff799e_Dark LCD Bar Fill.png",
+        "file": "assets/Dark LCD Bar Fill2.png",
         "kind": "image",
         "metadata": "",
         "name": "Dark LCD Bar Fill.png",
@@ -500,7 +500,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/170e9526f226a42898891871c54cd7dc7ff4f3f9242764fde54e6a4b96349d51_Gold bar background.png",
+        "file": "assets/Gold bar background2.png",
         "kind": "image",
         "metadata": "",
         "name": "Gold bar background.png",
@@ -513,7 +513,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/1835a8e778f048485605f0cecdca221dccb5d4b05821f101c1fc05d239f422b2_tiled_Empty Cloud Background.png",
+        "file": "assets/tiled_Empty Cloud Background2.png",
         "kind": "image",
         "metadata": "",
         "name": "tiled_Empty Cloud Background.png",
@@ -526,7 +526,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Resource bars/c0bac0102b6467c3f428f093a162ad8aedc069b2bf3cbe65f344353c3695ecdf_Flat Heart Empty.png",
+        "file": "assets/Flat Heart Empty2.png",
         "kind": "image",
         "metadata": "",
         "name": "Flat Heart Empty.png",
@@ -539,7 +539,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Resource bars/4158f811cf0bb821a58f98d8cb78f2257ee590210091ab56b46703e94044ee7a_Flat Heart Filled.png",
+        "file": "assets/Flat Heart Filled2.png",
         "kind": "image",
         "metadata": "",
         "name": "Flat Heart Filled.png",
@@ -552,7 +552,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/45e82e7d2a8d614d189e1fd4795b7f9c5a598a1ff12ddec5c9e0fbbf1ebd6c35_Explosion 2_20.png",
+        "file": "assets/Explosion 2_21.png",
         "kind": "image",
         "metadata": "",
         "name": "45e82e7d2a8d614d189e1fd4795b7f9c5a598a1ff12ddec5c9e0fbbf1ebd6c35_Explosion 2_20.png",
@@ -565,7 +565,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/e9039e9ae3c256171c1402e53843df882c39c695411ea53ddac4e9be8fe214d5_Explosion 1_16.png",
+        "file": "assets/Explosion 1_17.png",
         "kind": "image",
         "metadata": "",
         "name": "e9039e9ae3c256171c1402e53843df882c39c695411ea53ddac4e9be8fe214d5_Explosion 1_16.png",
@@ -578,7 +578,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/783b1a89b95899e4ccba2667f4e3ffad7b97bbfa45bc621f3da7ea400ab2f8df_Explosion 1_22.png",
+        "file": "assets/Explosion 1_23.png",
         "kind": "image",
         "metadata": "",
         "name": "783b1a89b95899e4ccba2667f4e3ffad7b97bbfa45bc621f3da7ea400ab2f8df_Explosion 1_22.png",
@@ -591,7 +591,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/d8b364cb1a1c51a4a4084a165e6cd9d49b3ac0e050eb7d432a64a457606d2fa7_Explosion 1_31.png",
+        "file": "assets/Explosion 1_32.png",
         "kind": "image",
         "metadata": "",
         "name": "d8b364cb1a1c51a4a4084a165e6cd9d49b3ac0e050eb7d432a64a457606d2fa7_Explosion 1_31.png",
@@ -604,7 +604,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/050fbc8f390ea33f60cf1d81ad31fede4404c831381a10a0f03407e9344f8ec9_Explosion 1_11.png",
+        "file": "assets/Explosion 1_12.png",
         "kind": "image",
         "metadata": "",
         "name": "050fbc8f390ea33f60cf1d81ad31fede4404c831381a10a0f03407e9344f8ec9_Explosion 1_11.png",
@@ -617,7 +617,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/d07dda8bc32f9b91c2dbb05615b29b0c9eaf4e66598769b873fba1b4e1f1c61d_Explosion 1_2.png",
+        "file": "assets/Explosion 1_3.png",
         "kind": "image",
         "metadata": "",
         "name": "d07dda8bc32f9b91c2dbb05615b29b0c9eaf4e66598769b873fba1b4e1f1c61d_Explosion 1_2.png",
@@ -630,7 +630,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/eced013b60189441c948ffa949fbc2eb134243c48c3b0b786a45446285ca920d_Explosion 1_1.png",
+        "file": "assets/Explosion 1_4.png",
         "kind": "image",
         "metadata": "",
         "name": "eced013b60189441c948ffa949fbc2eb134243c48c3b0b786a45446285ca920d_Explosion 1_1.png",
@@ -643,7 +643,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/973c4ea856937409488dc9fbb20e8f052b800e8021af109b3d5213778a15d0f1_Explosion 1_19.png",
+        "file": "assets/Explosion 1_20.png",
         "kind": "image",
         "metadata": "",
         "name": "973c4ea856937409488dc9fbb20e8f052b800e8021af109b3d5213778a15d0f1_Explosion 1_19.png",
@@ -656,7 +656,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/a145d93fa028b147d9ab95dbe582a41ded996a5fd27df1d924073e7ed75b52ef_Explosion 1_24.png",
+        "file": "assets/Explosion 1_25.png",
         "kind": "image",
         "metadata": "",
         "name": "a145d93fa028b147d9ab95dbe582a41ded996a5fd27df1d924073e7ed75b52ef_Explosion 1_24.png",
@@ -669,7 +669,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/48b4de4214db987e59838ebaa0339adb50110bf0c29cdc38ef5b8ce1f7a3dc2b_Explosion 1_13.png",
+        "file": "assets/Explosion 1_14.png",
         "kind": "image",
         "metadata": "",
         "name": "48b4de4214db987e59838ebaa0339adb50110bf0c29cdc38ef5b8ce1f7a3dc2b_Explosion 1_13.png",
@@ -682,7 +682,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/13c6c5316c882630bdb6024f1767cd216f9933f58a38d72fb1e060af6c4159d2_Explosion 1_36.png",
+        "file": "assets/Explosion 1_37.png",
         "kind": "image",
         "metadata": "",
         "name": "13c6c5316c882630bdb6024f1767cd216f9933f58a38d72fb1e060af6c4159d2_Explosion 1_36.png",
@@ -695,7 +695,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/8ae58a8cc2c235afd887da1af9e42322fbbde7729f8b8e1f9dcd36c7c44aeb97_Explosion 3_11.png",
+        "file": "assets/Explosion 3_12.png",
         "kind": "image",
         "metadata": "",
         "name": "8ae58a8cc2c235afd887da1af9e42322fbbde7729f8b8e1f9dcd36c7c44aeb97_Explosion 3_11.png",
@@ -708,7 +708,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/7aec2875d22c05d4cb4c596a059d22d6f3789537c90390abcc54e65aa534d1e4_Explosion 3_29.png",
+        "file": "assets/Explosion 3_30.png",
         "kind": "image",
         "metadata": "",
         "name": "7aec2875d22c05d4cb4c596a059d22d6f3789537c90390abcc54e65aa534d1e4_Explosion 3_29.png",
@@ -721,7 +721,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/83174496064c13cefc752fb0da91e7b7b88ef8e2964957a7ab6c904acc1f6aac_Explosion 3_31.png",
+        "file": "assets/Explosion 3_32.png",
         "kind": "image",
         "metadata": "",
         "name": "83174496064c13cefc752fb0da91e7b7b88ef8e2964957a7ab6c904acc1f6aac_Explosion 3_31.png",
@@ -734,7 +734,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/d9f80a5c5c520c1a2ce28cc0bc5e6642edcd279c1dcc8564fcdf4bacf937b770_Explosion 3_47.png",
+        "file": "assets/Explosion 3_48.png",
         "kind": "image",
         "metadata": "",
         "name": "d9f80a5c5c520c1a2ce28cc0bc5e6642edcd279c1dcc8564fcdf4bacf937b770_Explosion 3_47.png",
@@ -747,7 +747,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/8d4df16eb6d360eeb7a79ea63841a20b8aa805d2bfd6889739be790216816972_Explosion 1_44.png",
+        "file": "assets/Explosion 1_45.png",
         "kind": "image",
         "metadata": "",
         "name": "8d4df16eb6d360eeb7a79ea63841a20b8aa805d2bfd6889739be790216816972_Explosion 1_44.png",
@@ -759,7 +759,7 @@
         }
       },
       {
-        "file": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Explosions/3f85124583aa66e58db8c5fee9196cec591107e3ec0d6ccb5b03062d25c087e1_Explosion 3.aac",
+        "file": "assets/Explosion4.aac",
         "kind": "audio",
         "metadata": "",
         "name": "3f85124583aa66e58db8c5fee9196cec591107e3ec0d6ccb5b03062d25c087e1_Explosion 3.aac",
@@ -774,7 +774,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/d451707029dd323358d5384b935eec91df175ecb0ae6ad27e89bd27e4cc7b93e_Explosion 3_6.png",
+        "file": "assets/Explosion 3_7.png",
         "kind": "image",
         "metadata": "",
         "name": "d451707029dd323358d5384b935eec91df175ecb0ae6ad27e89bd27e4cc7b93e_Explosion 3_6.png",
@@ -787,7 +787,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/8a6a13d6fe4e6c4c4454b8fe86990ff68759c4042dbea1b69fde8052871d5acf_Holy Explosion_10.png",
+        "file": "assets/Holy Explosion_12.png",
         "kind": "image",
         "metadata": "",
         "name": "8a6a13d6fe4e6c4c4454b8fe86990ff68759c4042dbea1b69fde8052871d5acf_Holy Explosion_10.png",
@@ -800,7 +800,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/00543c248edb371c27fdafe60c96fffae4fb6477bbab3d7144cbe0eb7519d5ec_Holy Explosion_11.png",
+        "file": "assets/Holy Explosion_13.png",
         "kind": "image",
         "metadata": "",
         "name": "00543c248edb371c27fdafe60c96fffae4fb6477bbab3d7144cbe0eb7519d5ec_Holy Explosion_11.png",
@@ -813,7 +813,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/f6ff433b33cb52d5c4ae577d6df05559af8d9188f838b3a016285f2346a22e02_Holy Explosion_16.png",
+        "file": "assets/Holy Explosion_17.png",
         "kind": "image",
         "metadata": "",
         "name": "f6ff433b33cb52d5c4ae577d6df05559af8d9188f838b3a016285f2346a22e02_Holy Explosion_16.png",
@@ -826,7 +826,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/bff6adc488c7379b21ceba34e9104e861791b2fbb54b4aae167fe90115b92fa3_Green Button_Hovered.png",
+        "file": "assets/Green Button_Hovered.png",
         "kind": "image",
         "metadata": "",
         "name": "Green Button_Hovered.png",
@@ -839,7 +839,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f46d20e99495562ee66ee2f26defdb0788588184bd30b1f7b951ae728ce63d2a_Green Button_Idle.png",
+        "file": "assets/Green Button_Idle.png",
         "kind": "image",
         "metadata": "",
         "name": "Green Button_Idle.png",
@@ -852,7 +852,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/ecb33703984d3107196efce7335025d7ec104351fe8cdeb581c73fe0b8038c34_Green Button_Pressed.png",
+        "file": "assets/Green Button_Pressed.png",
         "kind": "image",
         "metadata": "",
         "name": "Green Button_Pressed.png",
@@ -865,7 +865,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c1e14acb64b9963341656c997853154dc4c86cd1c46fb12bfbe012d99712ef61_Yellow Button_Hovered.png",
+        "file": "assets/Yellow Button_Hovered.png",
         "kind": "image",
         "metadata": "",
         "name": "Yellow Button_Hovered.png",
@@ -878,7 +878,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/1cacfd123a1eb708837337c27982f6871f5127c5890dbf0775e0f411958fcbf1_Yellow Button_Idle.png",
+        "file": "assets/Yellow Button_Idle.png",
         "kind": "image",
         "metadata": "",
         "name": "Yellow Button_Idle.png",
@@ -891,7 +891,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/928c3ea4db1da835c9f8cc5b7089a47228350209d2ff489e1484c31e5ce41b3d_Yellow Button_Pressed.png",
+        "file": "assets/Yellow Button_Pressed.png",
         "kind": "image",
         "metadata": "",
         "name": "Yellow Button_Pressed.png",
@@ -904,7 +904,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f1e231bf9ea89b842ac63e17cc41cab0dd3a5d88916ca3454d89872e85c239d7_Red Button_Hovered.png",
+        "file": "assets/Red Button_Hovered.png",
         "kind": "image",
         "metadata": "",
         "name": "Red Button_Hovered.png",
@@ -917,7 +917,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/673facf2cabe26813a9ac066e93c005e264c6222557999e56582a0fe73216f3f_Red Button_Idle.png",
+        "file": "assets/Red Button_Idle.png",
         "kind": "image",
         "metadata": "",
         "name": "Red Button_Idle.png",
@@ -930,7 +930,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/e3269fc6a93f1d6083564069b4d14c7e31df6bfc96d27f82c791d2210242315a_Red Button_Pressed.png",
+        "file": "assets/Red Button_Pressed.png",
         "kind": "image",
         "metadata": "",
         "name": "Red Button_Pressed.png",
@@ -943,7 +943,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b43e0035dca80ea2fad5c5d65de926dae0185038e5f9cb21d5f20234f30d1c76_Grey Button_Hovered.png",
+        "file": "assets/Grey Button_Hovered.png",
         "kind": "image",
         "metadata": "",
         "name": "Grey Button_Hovered.png",
@@ -956,7 +956,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/da7fc2efa0882eb5dfa0266315f2483c2f68d86a6751dc309ea9e9d0dd4759ba_Grey Button_Idle.png",
+        "file": "assets/Grey Button_Idle.png",
         "kind": "image",
         "metadata": "",
         "name": "Grey Button_Idle.png",
@@ -969,7 +969,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/49c35e14af0e1f7aae407455cb944de96328955870e5f1500f63723ad879a42e_Grey Button_Pressed.png",
+        "file": "assets/Grey Button_Pressed.png",
         "kind": "image",
         "metadata": "",
         "name": "Grey Button_Pressed.png",
@@ -982,7 +982,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/9c836518da4f93f1a442e4beaa4023bdde907296b1a03f5562a73693fac0f778_tiled_Forest Background.png",
+        "file": "assets/tiled_Forest Background3.png",
         "kind": "image",
         "metadata": "",
         "name": "9c836518da4f93f1a442e4beaa4023bdde907296b1a03f5562a73693fac0f778_tiled_Forest Background.png",
@@ -995,7 +995,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Toggle Switch/9fac934090b9e722bbede334ed31025aa21ea4f85d64d12d2ed29f95157df6b5_Small Plastic Green Square Toggle_Off.png",
+        "file": "assets/Small Plastic Green Square Toggle_Off.png",
         "kind": "image",
         "metadata": "",
         "name": "Small Plastic Green Square Toggle_Off.png",
@@ -1008,7 +1008,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Toggle Switch/2f9378611f391b8228cac337e39ecacacd720b59716e7dd9e56cce73adb60f69_Small Plastic Green Square Toggle_On.png",
+        "file": "assets/Small Plastic Green Square Toggle_On.png",
         "kind": "image",
         "metadata": "",
         "name": "Small Plastic Green Square Toggle_On.png",
@@ -1021,7 +1021,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Toggle Switch/fb7f90b97747df8daf145e5d616435f9bbf02a5b953ee2c8e51dc9f298bd9257_Small Plastic Green Round Toggle_Off.png",
+        "file": "assets/Small Plastic Green Round Toggle_Off.png",
         "kind": "image",
         "metadata": "",
         "name": "Small Plastic Green Round Toggle_Off.png",
@@ -1034,7 +1034,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Toggle Switch/f1fe4aaaa4d6da59e2bf6b9411de1f013b5d86c5cacda01f99226c78f427f606_Small Plastic Green Round Toggle_On.png",
+        "file": "assets/Small Plastic Green Round Toggle_On.png",
         "kind": "image",
         "metadata": "",
         "name": "Small Plastic Green Round Toggle_On.png",
@@ -1047,7 +1047,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f6cc4ba876203745a8518ced52d0d773ff01ff8a63cdd9ac24388e5f3623cb48_White Sleek Button_Hovered.png",
+        "file": "assets/White Sleek Button_Hovered.png",
         "kind": "image",
         "metadata": "",
         "name": "White Sleek Button_Hovered.png",
@@ -1060,7 +1060,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/4d6db3c01bcade6c9060eb7bb37090777c228a29da7c5f25480b0cdedd37dc98_White Sleek Button_Idle.png",
+        "file": "assets/White Sleek Button_Idle.png",
         "kind": "image",
         "metadata": "",
         "name": "White Sleek Button_Idle.png",
@@ -1073,7 +1073,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/1e0387e7db58479ccb896a55b62f6db0955c926ad0f92a28d4306045c44245b2_White Sleek Button_Pressed.png",
+        "file": "assets/White Sleek Button_Pressed.png",
         "kind": "image",
         "metadata": "",
         "name": "White Sleek Button_Pressed.png",
@@ -1085,7 +1085,7 @@
         }
       },
       {
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/956a1314d3eda5bdbfe43362008ef0b147053bc8fcd9fa5a38ed244af8445197_WorkSans-Regular.ttf",
+        "file": "assets/WorkSans-Regular.ttf",
         "kind": "font",
         "metadata": "",
         "name": "WorkSans-Regular.ttf",
@@ -1097,7 +1097,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Lucid Icons Pack/Flat/5799ed4e9f2581eb591bc0ae8ac57721f5cfc93cd8a4e97ed04fe6b29b0f56b8_Chevron-Arrow-Left.png",
+        "file": "assets/Chevron-Arrow-Left.png",
         "kind": "image",
         "metadata": "",
         "name": "Chevron-Arrow-Left.png",
@@ -1110,7 +1110,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Lucid Icons Pack/Flat/afe50706def7a47730e0556dc031759efd60c1e365f46b6f7e3c23836320730e_Chevron-Arrow-Right.png",
+        "file": "assets/Chevron-Arrow-Right.png",
         "kind": "image",
         "metadata": "",
         "name": "Chevron-Arrow-Right.png",
@@ -2193,7 +2193,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4057518905943824,
+        "zoomFactor": 0.4789341884535247,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -2260,7 +2260,7 @@
           "persistentUuid": "5d5708da-a89a-4b4a-83d9-72f6830efcd5",
           "width": 66,
           "x": 230,
-          "y": 32,
+          "y": 28,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -2279,6 +2279,73 @@
           "x": 76,
           "y": 156,
           "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 83,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "NewTextInput",
+          "persistentUuid": "3ce52dab-9aa5-4639-a426-cac7a945056b",
+          "width": 750,
+          "x": 126,
+          "y": 314,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "CheckScore",
+          "persistentUuid": "16ecedda-ee16-49af-bcf5-4e9052a69424",
+          "width": 0,
+          "x": 58,
+          "y": 498,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 56,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "GreenButton",
+          "persistentUuid": "b4925ff6-9cac-4ce5-b8bb-b1e9c0f6e2ea",
+          "width": 104,
+          "x": 901,
+          "y": 331,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 60,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "GreenButton2",
+          "persistentUuid": "744075c9-46e8-402c-99c3-3f0bc4c090b2",
+          "width": 95,
+          "x": 607,
+          "y": 502,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2588,6 +2655,236 @@
             "characterSize": 60,
             "color": "0;0;0"
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewTextInput",
+          "type": "TextInput::TextInputObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "initialValue": "",
+            "placeholder": "Touch to start typing",
+            "fontResourceName": "",
+            "fontSize": 60,
+            "inputType": "text area",
+            "textColor": "0;0;0",
+            "fillColor": "255;255;255",
+            "fillOpacity": 255,
+            "borderColor": "0;0;0",
+            "borderOpacity": 255,
+            "borderWidth": 1,
+            "readOnly": false,
+            "disabled": false
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "CheckScore",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "See Leaderboard ->",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 60,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "See Leaderboard ->",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 60,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "b44dba91245ff1ac84a7b450e078194f19321d135fd8a67cd19bc9cb3403fba5",
+          "name": "GreenButton",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 16,
+            "RightPadding": 16,
+            "PressedLabelOffsetY": 10,
+            "BottomPadding": 32,
+            "TopPadding": 16,
+            "HoveredFadeOutDuration": 0.25
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 32,
+              "height": 106,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Green Button_Hovered.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 256
+            },
+            "Idle": {
+              "bottomMargin": 32,
+              "height": 106,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Green Button_Idle.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 256
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Enter",
+              "font": "",
+              "textAlignment": "center",
+              "characterSize": 20,
+              "color": {
+                "b": 29,
+                "g": 99,
+                "r": 62
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Enter",
+                "font": "",
+                "textAlignment": "center",
+                "characterSize": 20,
+                "color": "62;99;29"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 16,
+              "height": 106,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Green Button_Pressed.png",
+              "tiled": true,
+              "topMargin": 32,
+              "width": 256
+            }
+          }
+        },
+        {
+          "assetStoreId": "b44dba91245ff1ac84a7b450e078194f19321d135fd8a67cd19bc9cb3403fba5",
+          "name": "GreenButton2",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 16,
+            "RightPadding": 16,
+            "PressedLabelOffsetY": 10,
+            "BottomPadding": 32,
+            "TopPadding": 16,
+            "HoveredFadeOutDuration": 0.25
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 32,
+              "height": 106,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Green Button_Hovered.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 256
+            },
+            "Idle": {
+              "bottomMargin": 32,
+              "height": 106,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Green Button_Idle.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 256
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Enter",
+              "font": "",
+              "textAlignment": "center",
+              "characterSize": 20,
+              "color": {
+                "b": 29,
+                "g": 99,
+                "r": 62
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Enter",
+                "font": "",
+                "textAlignment": "center",
+                "characterSize": 20,
+                "color": "62;99;29"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 16,
+              "height": 106,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Green Button_Pressed.png",
+              "tiled": true,
+              "topMargin": 32,
+              "width": 256
+            }
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -2607,6 +2904,18 @@
           },
           {
             "objectName": "ScoreAmount"
+          },
+          {
+            "objectName": "CheckScore"
+          },
+          {
+            "objectName": "NewTextInput"
+          },
+          {
+            "objectName": "GreenButton"
+          },
+          {
+            "objectName": "GreenButton2"
           }
         ]
       },
@@ -6094,22 +6403,6 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "FireBullet::FireBullet::IsOutOfAmmo"
-              },
-              "parameters": [
-                "Player",
-                "FireBullet",
-                ""
-              ]
-            }
-          ],
           "actions": []
         }
       ],
